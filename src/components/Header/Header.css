@@ -1,0 +1,15 @@
+.Header {
+  box-sizing: border-box;
+  width: 100%;
+  display: flexbox;
+  justify-content: left;
+  align-items: left;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: #df2f2f;
+  color: #fff;
+}
+
+.Header-Subtitle {
+  font-variant: small-caps;
+}

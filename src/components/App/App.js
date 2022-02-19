@@ -1,21 +1,24 @@
-import logo from './logo.svg';
+import logo from '../../logo.png';
 import './App.css';
+import Header from '../Header/Header';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="Trade Standard Logo" />
+        <Header />
+        
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         Look at our work below on Instagram
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/tradestandards/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Trade Standards
         </a>
       </header>
     </div>
