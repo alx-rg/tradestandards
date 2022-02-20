@@ -1,4 +1,3 @@
-import logo from '../../logo.png';
 import './App.css';
 import Header from '../Header/Header';
 
@@ -6,9 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="Trade Standard Logo" />
-        <Header />
-        
+        <Header />    
         <p>
          Look at our work below on Instagram
         </p>
