@@ -1,11 +1,13 @@
 import './App.css';
 import Header from '../Header/Header';
+import ServicesList from '../ServicesList/ServicesList';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Header />    
+        <Header />   
+        <ServicesList /> 
         <p>
          Look at our work below on Instagram
         </p>

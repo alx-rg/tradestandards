@@ -1,0 +1,11 @@
+
+.ServicesCard {
+  width: 100%;
+  text-align: center;
+}
+
+.ServicesCard > img {
+  width: 100%;
+  height: auto;
+  border-radius: 33%;
+}

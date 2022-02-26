@@ -8,7 +8,6 @@ function NavBar () {
       <div className="header-bar">
         <img src={logo} className="logo" alt="Trade Standard Logo"/>
         <ul className="slider-menu">
-          <li>Home</li>
           <li>About</li>
           <li>Services</li>
         </ul>
