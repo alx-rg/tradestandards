@@ -16,6 +16,7 @@ html, body {
 	position: relative;
 	width: 80%;
 	min-width: 450px;
+	max-width: 1250px;
 	height: 60px;
 	border: 10px solid transparent;
 	border-top: 10px solid #fffa;

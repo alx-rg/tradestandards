@@ -1,21 +1,32 @@
 
-.ChooseList {
+.Choose-main {
+	padding-top: 5%;
+	padding-bottom: 5%;
+	background-color: rgb(84, 84, 84);
+}
+
+.Choose-main > h1 {
+	color: rgb(255, 182, 182);
+}
+
+.Choose-list {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 2em;
 	max-width: 1200px;
 	margin: auto;
 	padding: 2em;
+	background-color: rgb(84, 84, 84);
 }
 
 @media only screen and (max-width: 960px) {
-	.ChooseList {
+	.Choose-list {
 		grid-template-columns: 1fr 1fr;
 	}
 }
 
 @media only screen and (max-width: 700px) {
-	.ChooseList {
+	.Choos-list {
 		grid-template-columns: 1fr;
 	}
 }

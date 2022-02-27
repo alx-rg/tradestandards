@@ -1,14 +1,55 @@
+.ServicesCard img {
+  width: 100%;
+  height: auto;
+}
 
 .ServicesCard {
+  position: relative;
   width: 100%;
   text-align: center;
+	
+}
+
+.ServicesCard .ServicesCard-name {
   text-decoration: none;
-  color: rgb(255, 255, 255);
+  color: #fff;
+}
+
+.ServicesCard h1 {
+  display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+  font-size: 2rem;
+	margin-left: 0.5rem;
+  margin-top: 0.2rem;
+	font-weight: lighter;
+	background-color: #282c34;
+	padding: 1rem;
+	text-align: left;
 }
 
 .ServicesCard > img {
   width: 100%;
   height: auto;
-  border-radius: 33%;
 }
 
+img {
+  border-radius: 50%;
+}
+
+.ServicesCard .ServicesCard-info {
+	position: absolute;
+	text-decoration: none;
+	right: 0;
+	bottom: 0;
+	text-align: left;
+	color: #282c34;
+	background-color: rgba(255, 255, 255, 0.68);
+}
+
+.ServicesCard .ServicesCard-info div {
+	display: inline-block;
+	padding: 0.25em 0.5em;
+	background-color: rgba(255, 255, 255, 0.9);
+}

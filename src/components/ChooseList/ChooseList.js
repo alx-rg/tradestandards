@@ -19,8 +19,12 @@ function ChooseList() {
   })
 
   return (
-    <div className="ChooseList">
-      { services }
+    <div className='Choose-main'>
+      <h1>Why Choose Us</h1>
+      <div className="Choose-list">
+        { services }
+      </div>
+      <button>CONTACT US</button>
     </div>
   )
 }

@@ -8,6 +8,7 @@
 
 .Card > img {
   width: 75px;
+  padding: 10px;
   height: auto;
   border-radius: 50%;
   background-color: rgb(194, 0, 0);
