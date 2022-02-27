@@ -2,6 +2,8 @@
 .ServicesCard {
   width: 100%;
   text-align: center;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
 }
 
 .ServicesCard > img {
@@ -9,3 +11,4 @@
   height: auto;
   border-radius: 33%;
 }
+

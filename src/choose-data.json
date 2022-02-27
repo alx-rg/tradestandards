@@ -1,0 +1,51 @@
+
+[
+  {
+     "title":"TOP QUALITY WORK",
+     "desc":"We prioritize our customer’s preferences and guarantee satisfaction. Our company’s pride is in delivering prime work and the most pleasing results all the time.",
+     "images":[
+        "benefit-icon-1.png"
+     ],
+     "alt":"Quality Work"
+  },
+  {
+     "title":"PROFESSIONAL TEAM",
+     "desc":"Our professionals and specialists are certified for the job. Rest assured that you will be working with people who are authorized to perform their work with the highest standards.",
+     "images":[
+        "benefit-icon-2.png"
+     ],
+     "alt":"Pro Team"
+  },
+  {
+     "title":"SAFETY FIRST",
+     "desc":"Every project we do is also insured to protect your property and your family. Our workers are fully equipped with safety gear to ensure their safety while on the job.",
+     "images":[
+        "benefit-icon-3.png"
+     ],
+     "alt":"Safety First"
+  },
+  {
+     "title":"WORK WITH EXPERIENCE",
+     "desc":"The years of experience have contributed to the expertise the team has. Our workers have gained added knowledge from experience.",
+     "images":[
+        "benefit-icon-4.png"
+     ],
+     "alt":"Work with experience"
+  },
+  {
+     "title":"SATISFIED CUSTOMER",
+     "desc":"Customer satisfaction is our primary goal. We plan and design your kitchen with a touch of personalization to suit your taste and fit your budget.",
+     "images":[
+        "benefit-icon-5.png"
+     ],
+     "alt":"Satisfied Customers"
+  },
+  {
+     "title":"AFFORDABLE PRICE",
+     "desc":"Enjoy our kitchen remodeling services and affordable kitchen supplies without compromises. We provide accurate estimates and zero hidden charges.",
+     "images":[
+        "benefit-icon-6.png"
+     ],
+     "alt":"Affordable Price"
+  }
+]

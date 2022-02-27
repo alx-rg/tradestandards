@@ -5,10 +5,10 @@ import data from '../../services-data.json'
 
 function SercivesList() {
 
-  const services = data.map((obj) => {
-    const { title, desc, images, alt } = obj
+  const services = data.map(({title, desc, images, alt }, i) => {
     return (
       <ServicesEach
+        id={i}
         key={title}
         name={title}
         desc={desc}

@@ -1,0 +1,19 @@
+
+.Card {
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.Card > img {
+  width: 75px;
+  height: auto;
+  border-radius: 50%;
+  background-color: rgb(194, 0, 0);
+}
+
+.Card > p {
+  color: lightgrey;
+  font-size: 18px;
+}

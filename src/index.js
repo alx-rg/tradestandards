@@ -1,13 +1,26 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import About from './components/About/About'
+import SercivesList from './components/ServicesList/ServicesList';
+import Main from './components/Main/Main'
 import App from './components/App/App';
 import reportWebVitals from './reportWebVitals';
+import './index.css';
+import ServicesDetails from './components/ServicesDetails/ServicesDetails';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Router>
+    <Routes>
+      <Route path="/" element={<App />}>
+        
+        <Route path="/" element={<Main />} />
+        <Route path="services" element={<SercivesList />} />
+        <Route path="about" element={<About />} />
+        <Route path="/details/:id" element={<ServicesDetails />} />
+      </Route>
+    </Routes>
+  </Router>,
   document.getElementById('root')
 );
 
