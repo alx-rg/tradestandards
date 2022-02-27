@@ -27,3 +27,8 @@
 .ServicesDetails-desc {
   text-align: left;
 }
+
+.ServicesDetails-contact {
+  text-align: center;
+	text-decoration: underline;
+}

@@ -4,10 +4,9 @@
   display: flexbox;
   justify-content: left;
   align-items: left;
-  padding: 1em;
-  margin-bottom: 2em;
-  background-color: #df2f2f;
-  color: #fff;
+  background-color: #7b7b7b;
+  color: rgb(0, 0, 0);
+
 }
 
 .Header-Subtitle {

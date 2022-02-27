@@ -1,12 +1,19 @@
 
+.Choose-backimage {
+	background-image: url('../../../public/images/sidekix-media-hmz7nC5mEu4-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+}
+
 .Choose-main {
 	padding-top: 5%;
 	padding-bottom: 5%;
-	background-color: rgb(84, 84, 84);
+	background-color: rgba(84, 84, 84, 0.728);	
 }
 
 .Choose-main > h1 {
-	color: rgb(255, 182, 182);
+	color: rgb(255, 255, 255);
 }
 
 .Choose-list {
@@ -16,7 +23,6 @@
 	max-width: 1200px;
 	margin: auto;
 	padding: 2em;
-	background-color: rgb(84, 84, 84);
 }
 
 @media only screen and (max-width: 960px) {

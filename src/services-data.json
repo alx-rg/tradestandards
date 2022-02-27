@@ -7,7 +7,8 @@
      "images":[
         "KitchenSquare.png"
      ],
-     "alt":"Kitchen picture"
+     "alt":"Kitchen picture",
+     "contact":"Call us today at 204-222-2222!"
   },
   {
      "title":"Kitchens",
@@ -16,7 +17,8 @@
      "images":[
         "KitchenSquare2.png"
      ],
-     "alt":"Another Kitchen picture"
+     "alt":"Another Kitchen picture",
+     "contact":"Call us today at 204-222-2222!"
   },
   {
      "title":"Bathrooms",
@@ -25,7 +27,8 @@
      "images":[
         "BathroomSquare2.png"
      ],
-     "alt":"A Bathroom picture"
+     "alt":"A Bathroom picture",
+     "contact":"Call us today at 204-222-2222!"
   },
   {
      "title":"Full Remodeling",
@@ -34,7 +37,8 @@
      "images":[
         "BathroomSquare.png"
      ],
-     "alt":"A Bathroom Design picture"
+     "alt":"A Bathroom Design picture",
+     "contact":"Call us today at 204-222-2222!"
   },
   {
      "title":"Cabinets",
@@ -43,7 +47,8 @@
      "images":[
         "KitchenSquare3.png"
      ],
-     "alt":"Yet another Kitchen picture"
+     "alt":"Yet another Kitchen picture",
+     "contact":"Call us today at 204-222-2222!"
   },
   {
      "title":"Tiles",
@@ -52,6 +57,7 @@
      "images":[
         "TileSquare.png"
      ],
-     "alt":"Fancy square Tiling Photo by unsplash.com/@carolynchristine"
+     "alt":"Fancy square Tiling Photo by unsplash.com/@carolynchristine",
+     "contact":"Call us today at 204-222-2222!"
   }
 ]

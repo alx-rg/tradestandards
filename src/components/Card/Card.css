@@ -7,14 +7,13 @@
 }
 
 .Card > img {
-  width: 75px;
+  width: 50px;
   padding: 10px;
   height: auto;
-  border-radius: 50%;
   background-color: rgb(194, 0, 0);
 }
 
 .Card > p {
-  color: lightgrey;
+  color: rgb(254, 254, 254);
   font-size: 18px;
 }

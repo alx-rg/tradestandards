@@ -1,0 +1,14 @@
+.Hero-img {
+  height: 100vh;
+  background-image: url('../../../public/images/r-architecture-CCjAPxoQWgQ-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+}
+
+.Hero-main {
+  height: 100vh;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	background-color: rgba(84, 84, 84, 0.728);	
+}

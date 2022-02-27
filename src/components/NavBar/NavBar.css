@@ -3,13 +3,20 @@ html, body {
 	height: 100%;
 	margin: 0;
 }
+
+.scrolled{
+  position: fixed;
+  top: 0;
+  left: 0;
+
+}
 .container {
 	height: 100%;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	color: #fff;
+	color: #fff;	
 }
 .lead { font-family: 'Quicksand'; }
 .header-bar {

@@ -1,10 +1,17 @@
 import React from 'react';
+import '../Hero/Hero.css'
 
 function Hero() {
   return(
-    <div>
-      <h1>TRADE STANDARDS</h1>
-      <div className='tagline'>We don't just meet the standard, we set them!</div>
+    <div className='Hero-img'>
+      <div className='Hero-main'>
+        <h1>TRADE STANDARDS</h1>
+        <div>
+          <p>
+            We don't just meet the standard, we set them!
+          </p>
+        </div>
+      </div>
     </div>
   )
 }
