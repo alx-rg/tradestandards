@@ -1,15 +1,16 @@
 import React from 'react';
 import './ServicesEach.css'
+import data from '../../services-data.json'
 
 function ServicesEach(props) {
-  const {name, image, service } = props
+  const {name, image, desc, alt } = props
   return (
     <div className="ServicesCard">
       <img src={`${process.env.PUBLIC_URL}/images/${image}`}     
-        alt="Kitchen Renovation"
+        alt={`${alt}`}
       />
       <h1>{name}</h1>
-      <div>{service}</div>
+      <p>{desc}</p>
     </div>
   )
 }

@@ -1,0 +1,57 @@
+
+[
+  {
+     "title":"Measure, Design and Consult",
+     "desc":"We are a design oriented firm and provide site measurements, initial design and consultation services.",
+     "long-desc":"We are a design oriented firm and provide site measurements, initial design and consultation services. Rest assured, you will leave our meetings with a well thought-out design and everything on your mind for your new kitchen!",
+     "images":[
+        "KitchenSquare.png"
+     ],
+     "alt":"Kitchen picture"
+  },
+  {
+     "title":"Kitchens",
+     "desc":"At Trade Standards our passion is building enviable kitchens for your home and family and hiring the best company you can find is important.",
+     "long-desc":"At Trade Standards our passion is building enviable kitchens for your home and family. No matter if the reason for a kitchen renovation is our of necessity or the need for a change, it’s a valuable add-on to pursue, and hiring the best company you can find is important.",
+     "images":[
+        "KitchenSquare2.png"
+     ],
+     "alt":"Another Kitchen picture"
+  },
+  {
+     "title":"Bathrooms",
+     "desc":"Our company has had the pleasure of creating many successful bathroom facelifts and full remodels over the years.",
+     "long-desc":"Our company has had the pleasure of creating many successful bathroom facelifts and full remodels over the years. We pride ourselves on efficiency and dedication to our craft and will never consider a job finished until you are fully satisfied.",
+     "images":[
+        "BathroomSquare2.png"
+     ],
+     "alt":"A Bathroom picture"
+  },
+  {
+     "title":"Full Service Remodeling",
+     "desc":"Kitchens and bathrooms need to be functional above all else, but that doesn’t mean they can’t look nice while they’re at it.",
+     "long-desc":"Kitchens and bathrooms need to be functional above all else, but that doesn’t mean they can’t look nice while they’re at it. We are proud to provide full-service remodeling specializing in absolutely everything to make these rooms look their best.",
+     "images":[
+        "BathroomSquare.png"
+     ],
+     "alt":"A Bathroom Design picture"
+  },
+  {
+     "title":"Cabinets",
+     "desc":"We can offer cabinets for your kitchen custom made.",
+     "long-desc":"We can offer cabinets for your kitchen custom made. Whether you are a builder or contractor, replacing the kitchen in your rental property or simply looking for budget cabinets yourself,  we will be able to get you what you need  quickly!",
+     "images":[
+        "KitchenSquare3.png"
+     ],
+     "alt":"Yet another Kitchen picture"
+  },
+  {
+     "title":"Tiles",
+     "desc":"At Trade Standards our passion is building enviable kitchens for your home and family.",
+     "long-desc":"At Trade Standards our passion is building enviable kitchens for your home and family. No matter if the reason for a kitchen renovation is our of necessity or the need for a change, it’s a valuable add-on to pursue, and hiring the best company you can find is important.",
+     "images":[
+        "TileSquare.png"
+     ],
+     "alt":"Fancy square Tiling picture"
+  }
+]

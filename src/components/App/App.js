@@ -1,6 +1,7 @@
 import './App.css';
 import Header from '../Header/Header';
 import ServicesList from '../ServicesList/ServicesList';
+import Footer from '../Footer/Footer';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           Trade Standards
         </a>
       </header>
+      <Footer />
     </div>
   );
 }
