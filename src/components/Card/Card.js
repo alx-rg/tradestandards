@@ -1,6 +1,7 @@
 import React from 'react';
 import './Card.css'
 
+
 function Card(props) {
   const {name, image, desc, alt } = props
   return (

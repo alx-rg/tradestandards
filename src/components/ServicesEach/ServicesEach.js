@@ -1,5 +1,6 @@
 import React from 'react';
 import './ServicesEach.css'
+import data from '../../services-data.json'
 import { Link } from 'react-router-dom';
 
 function ServicesEach(props) {

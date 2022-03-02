@@ -11,7 +11,7 @@ function ServicesDetails(props) {
   return (
     <div className='"ServicesDetails'>
       <div className='ServicesDetails-image'>
-        <img src={`${process.env.PUBLIC_URL}images/${images[0]}`} alt={alt} />
+        <img src={`${process.env.PUBLIC_URL}/images/${images[0]}`} alt={alt} />
       </div>
       <div className='ServicesDetails-info'>
         <h1 className='ServicesDetails-title'>{ title }</h1>
