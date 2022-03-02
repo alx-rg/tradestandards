@@ -34,7 +34,7 @@ const ContactForm = () => {
           target="_blank"
           
           >
-          <div >
+          <div className='' >
             <input type="text" placeholder="Your name" name="name" required />
           </div>
           <div>
