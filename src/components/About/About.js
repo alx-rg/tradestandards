@@ -1,8 +1,14 @@
 import React from "react";
+import "./About.css"
+import Header from '../Header/Header'
 
 function About() {
   return (
     <div>
+
+    <div className="container">
+      <div className="writing">
+        
       <h1>Trade Standards</h1>
       <h3>Who We Are</h3>
       <p>
@@ -30,6 +36,8 @@ function About() {
       <p>
         We work simultaneously to plan, design, and construct the kitchen so that our customers receive what they desire. Trade Standards has all of the necessary elements for a versatile and superior kitchen experience. 
       </p>
+      </div>
+    </div>
     </div>
   )
 }

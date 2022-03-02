@@ -9,19 +9,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Header />   
-        <Outlet />
-        {/* <p>
-         Look at our work below on Instagram
-        </p>
-        <a
-          className="App-link"
-          href="https://www.instagram.com/tradestandards/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Trade Standards
-        </a> */}
+        <Header />
+        <div>
+          <Outlet />
+        </div>   
       </header>
       <Footer />
     </div>

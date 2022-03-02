@@ -39,6 +39,7 @@ img {
 }
 
 .ServicesCard .ServicesCard-info {
+	padding: 15px;
 	position: absolute;
 	text-decoration: none;
 	right: 0;

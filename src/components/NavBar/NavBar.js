@@ -1,12 +1,28 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import './NavBar.css';
 import logo from '../../logo.png';
 import { NavLink } from 'react-router-dom'
 
 function NavBar () {
-    
-  return (
+  const [scrolled,setScrolled]=React.useState(false);
+  const handleScroll=() => {
+      const offset=window.scrollY;
+      if(offset > 200 ){
+        setScrolled(true);
+      }
+      else{
+        setScrolled(false);
+      }
+    }
+  
+    useEffect(() => {
+      window.addEventListener('scroll',handleScroll)
+    })
 
+  return (
+    <header className={setScrolled? 'navbar scrolled' : 'navbar'}>
+
+    {/* <div className={`h-16 w-full bg-gray-200 ${stickyClass}`}> */}
     <div className="container">
       <div className="header-bar">
         <NavLink to="/" >
@@ -27,10 +43,11 @@ function NavBar () {
 
           <NavLink 
           className={({ isActive }) => isActive ? "list-item-active": "list-item" }
-          to="/about">Contact</NavLink>
+          to="/contact">Contact</NavLink>
         </ul>
       </div>
     </div>
+  </header>
   )
 }
 export default NavBar

@@ -8,6 +8,7 @@ import App from './components/App/App';
 import reportWebVitals from './reportWebVitals';
 import './index.css';
 import ServicesDetails from './components/ServicesDetails/ServicesDetails';
+import Contact from './components/Contact/Contact'
 
 ReactDOM.render(
   <Router>
@@ -18,6 +19,8 @@ ReactDOM.render(
         <Route path="services" element={<SercivesList />} />
         <Route path="about" element={<About />} />
         <Route path="/details/:id" element={<ServicesDetails />} />
+        <Route path="/contact" element={<Contact />} />
+
       </Route>
     </Routes>
   </Router>,

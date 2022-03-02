@@ -1,0 +1,21 @@
+
+
+.page {
+  height:70vh;
+  background-color: rgb(232, 232, 232);
+  color: black;
+  padding: 100px;
+  padding-bottom: 250px;
+}
+
+.text {
+  padding-top: 50px;
+  background-color:rgb(232, 232, 232) ;
+}
+
+.form {
+
+  border-radius: 10px;
+  background-color: rgb(92, 91, 91);
+  padding: 20px;
+}
