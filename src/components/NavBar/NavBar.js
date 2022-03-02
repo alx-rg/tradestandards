@@ -1,10 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import './NavBar.css';
 import logo from '../../logo.png';
 import { NavLink } from 'react-router-dom'
 
 function NavBar () {
-  const [scrolled,setScrolled]=React.useState(false);
+  const [setScrolled]=React.useState(false);
   const handleScroll=() => {
       const offset=window.scrollY;
       if(offset > 200 ){

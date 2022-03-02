@@ -1,7 +1,5 @@
 import React from 'react';
 import './Card.css'
-import data from '../../services-data.json'
-
 
 function Card(props) {
   const {name, image, desc, alt } = props
