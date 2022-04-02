@@ -31,6 +31,36 @@
      "contact":"Call us today at 204-222-2222!"
   },
   {
+     "title":"Living Room",
+     "desc":"We have custom made multiple entertainment centers to heighten the beauty and functionality of the living room with great success.",
+     "long_desc":"Our company has had the pleasure of creating many successful entertainment center facelifts and over the years. We pride ourselves on efficiency and dedication to our craft and will never consider a job finished until you are fully satisfied.",
+     "images":[
+        "EntertainmentSquare.png"
+     ],
+     "alt":"An entertainment center picture",
+     "contact":"Call us today at 204-222-2222!"
+  },
+  {
+     "title":"Entertainment Center",
+     "desc":"We have custom made multiple entertainment centers to heighten the beauty and functionality of the living room with great success.",
+     "long_desc":"Our company has had the pleasure of creating many successful entertainment center facelifts and over the years. We pride ourselves on efficiency and dedication to our craft and will never consider a job finished until you are fully satisfied.",
+     "images":[
+        "EntertainmentSquare1.png"
+     ],
+     "alt":"An entertainment center picture",
+     "contact":"Call us today at 204-222-2222!"
+  },
+  {
+     "title":"Masonry Expertise",
+     "desc":"Trust us with your custom fireplaces or other masonry projects.",
+     "long_desc":"Our company has had the pleasure of creating many successful entertainment center facelifts and over the years. We pride ourselves on efficiency and dedication to our craft and will never consider a job finished until you are fully satisfied.",
+     "images":[
+        "MasonrySquare.png"
+     ],
+     "alt":"An entertainment center picture",
+     "contact":"Call us today at 204-222-2222!"
+  },
+  {
      "title":"Full Remodeling",
      "desc":"Kitchens and bathrooms need to be functional above all else, but that doesn’t mean they can’t look nice while they’re at it.",
      "long_desc":"Kitchens and bathrooms need to be functional above all else, but that doesn’t mean they can’t look nice while they’re at it. We are proud to provide full-service remodeling specializing in absolutely everything to make these rooms look their best.",
@@ -58,6 +88,26 @@
         "TileSquare.png"
      ],
      "alt":"Fancy square Tiling Photo by unsplash.com/@carolynchristine",
+     "contact":"Call us today at 204-222-2222!"
+  },
+  {
+     "title":"Patios",
+     "desc":"We build deluxe patios for your outside life.",
+     "long_desc":"At Trade Standards our passion is building enviable kitchens for your home and family. No matter if the reason for a kitchen renovation is our of necessity or the need for a change, it’s a valuable add-on to pursue, and hiring the best company you can find is important.",
+     "images":[
+        "PatioSquare.png"
+     ],
+     "alt":"Wood Patio Photo by unsplash.com/@heftiba",
+     "contact":"Call us today at 204-222-2222!"
+  },
+  {
+     "title":"General Contractor",
+     "desc":"At Trade Standards our passion is creating and building high quality projects.",
+     "long_desc":"At Trade Standards our passion is building enviable kitchens for your home and family. No matter if the reason for a kitchen renovation is our of necessity or the need for a change, it’s a valuable add-on to pursue, and hiring the best company you can find is important.",
+     "images":[
+        "ContractingSquare.png"
+     ],
+     "alt":" Measuring Tools Photo by unsplash.com/@yer_a_wizard",
      "contact":"Call us today at 204-222-2222!"
   }
 ]

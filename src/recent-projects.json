@@ -1,0 +1,46 @@
+
+[
+  {
+     "title":"Kitchen Reno",
+     "desc":"Large Kitchen Reno in Glenwood",
+     "long_desc":"Complete Gutting of the old kitchen and installation of new lower and upper cabinets, new quartz countertop.",
+     "images":[
+        "glenwood-kitchen.png",
+        "glenwood-kitchen.png",
+        "glenwood-kitchen.png"
+     ],
+     "alt":"Kitchen picture",
+     "contact":"Call us today at 204-222-2222!"
+  },
+  {
+     "title":"Kitchen Reno",
+     "desc":"Large Kitchen Reno in Sage Creek",
+     "long_desc":"Installation of new lower and upper cabinets, new quartz countertop, sink, and handles.",
+     "images":[
+        "sage-creek-kitchen.png",
+        "sage-creek-kitchen.png"
+     ],
+     "alt":"Kitchen picture",
+     "contact":"Call us today at 204-222-2222!"
+  },
+  {
+     "title":"Bathroom Reno",
+     "desc":"Small Bathroom Reno in Glenwood",
+     "long_desc":"Removal of the old bathroom sink and plumbing. Installation of a new bathroom vanity, plumbing with new quartz countertop.",
+     "images":[
+        "glenwood-bathroom.png"
+     ],
+     "alt":"Another Kitchen picture",
+     "contact":"Call us today at 204-222-2222!"
+  },
+  {
+     "title":"Entertainment Unit",
+     "desc":"Custom entertainment unit in Island Lake",
+     "long_desc":"New custom build stone fireplace and entertainment unit as well as intergrated cabinets and hidden storage.",
+     "images":[
+        "entertainment-center-courtney-smith.jpg"
+     ],
+     "alt":"A Bathroom picture",
+     "contact":"Call us today at 204-222-2222!"
+  }
+]
