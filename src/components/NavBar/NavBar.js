@@ -43,6 +43,10 @@ function NavBar () {
 
           <NavLink 
           className={({ isActive }) => isActive ? "list-item-active": "list-item" }
+          to="/projects">Projects</NavLink>
+
+          <NavLink 
+          className={({ isActive }) => isActive ? "list-item-active": "list-item" }
           to="/contact">Contact</NavLink>
         </ul>
       </div>

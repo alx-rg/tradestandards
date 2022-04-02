@@ -1,9 +1,9 @@
 
-.ServicesHeader {
+.ProjectsHeader {
 	margin-top: 150px;
 }
 
-.ServicesList {
+.ProjectsList {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	grid-gap: 2em;
@@ -14,13 +14,13 @@
 }
 
 @media only screen and (max-width: 960px) {
-	.ServicesList {
+	.ProjectsList {
 		grid-template-columns: 1fr;
 	}
 }
 
 @media only screen and (max-width: 700px) {
-	.ServicesList {
+	.ProjectsList {
 		grid-template-columns: 1fr;
 	}
 }

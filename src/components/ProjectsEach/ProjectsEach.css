@@ -1,22 +1,24 @@
-.ServicesCard img {
+.ProjectsCard img {
+  float: middle;
+	width: 450px;
+	height: 450px;
+	object-fit: cover;
+}
+
+.ProjectsCard {
+  position: relative;
   width: 100%;
-  height: auto;
-	border-radius: 50%;
+  text-align: center;
+	
 }
 
-.ServicesCard {
-	position: relative;
-	width: 100%;
-	text-align: center;
-}
-
-.ServicesCard .ServicesCard-name {
-	text-decoration: none;
+.ProjectsCard .ProjectsCard-name {
+  text-decoration: none;
   color: #fff;
 }
 
-.ServicesCard h1 {
-	display: block;
+.ProjectsCard h1 {
+  display: block;
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -29,7 +31,7 @@
 	text-align: left;
 }
 
-.ServicesCard .ServicesCard-info {
+.ProjectsCard .ProjectsCard-info {
 	padding: 15px;
 	position: absolute;
 	text-decoration: none;
@@ -40,7 +42,7 @@
 	background-color: rgba(255, 255, 255, 0.68);
 }
 
-.ServicesCard .ServicesCard-info div {
+.ProjectsCard .ProjectsCard-info div {
 	display: inline-block;
 	padding: 0.25em 0.5em;
 	background-color: rgba(255, 255, 255, 0.9);

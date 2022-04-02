@@ -19,9 +19,14 @@ function SercivesList() {
   })
 
   return (
-    <div className="ServicesList">
-      { services }
-    </div>
+      <div>
+        <div className='ServicesHeader'>
+          <h1>Services</h1>
+        </div>
+        <div className="ServicesList">
+          { services }
+        </div>
+      </div>
   )
 }
 

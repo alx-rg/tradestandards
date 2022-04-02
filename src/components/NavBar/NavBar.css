@@ -2,14 +2,12 @@
 html, body {
 	height: 100%;
 	margin: 0;
-	
 }
 
 .scrolled{
   position: fixed;
   top: 0;
   left: 0;
-	
 
 }
 .container {

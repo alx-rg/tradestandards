@@ -1,0 +1,35 @@
+.ProjectsDetails {
+	display: flex;
+	flex-direction: row-reverse;
+	width: 960px;
+	margin: auto;
+}
+
+.ProjectsDetails-info {
+  flex: 1;
+	text-align: left;
+	padding: 0 5em;
+	padding-bottom: 50px;
+}
+
+.ProjectsDetails-title {
+  font-size: 2em;
+	margin: 0;
+}
+
+.ProjectsDetails-image {
+	flex: 2;
+}
+
+.ProjectsDetails-image img {
+	width: 90%;
+}
+
+.ProjectsDetails-desc {
+  text-align: left;
+}
+
+.ProjectsDetails-contact {
+  text-align: center;
+	text-decoration: underline;
+}
