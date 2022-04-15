@@ -23,6 +23,7 @@ function SercivesList() {
         <div className='ServicesHeader'>
           <h1>Services</h1>
         </div>
+        
         <div className="ServicesList">
           { services }
         </div>
